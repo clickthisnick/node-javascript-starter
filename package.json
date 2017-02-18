@@ -6,8 +6,11 @@
   "dependencies": {
     "bluebird": "^3.4.7",
     "eslint": "^3.15.0",
+    "eslint-plugin-lodash": "^2.3.5",
+    "eslint-plugin-mocha": "^4.8.0",
     "git-hooks": "^1.1.8",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0"
   },
   "devDependencies": {},
   "scripts": {
